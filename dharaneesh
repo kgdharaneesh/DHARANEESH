@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <form>
+            <fieldset>
+                <legend>Personal Details</legend>
+    <label>First name:</label>
+    <input type="text"><br>
+     <label>Last name:</label>
+    <input type="text"><br>
+     <label>Gender:</label>
+    <input type="radio" name="Gender"> Male <input type="radio" name="Gender"> Female<br>
+     <label>Email:</label>
+    <input type="email"><br>
+    <label>Date of Birth:</label>
+    <input type="date"><br>
+    <label>Address:</label><br>
+    <textarea rows="3" cols="35"></textarea><br>
+    <input type="Submit" value="Submit"><br>
+    </fieldset>
+    </form>
+    </body>
+</html>
